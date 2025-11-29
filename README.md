@@ -1,2 +1,3 @@
-# mini_ML_Projects
+# mini_ML_Project
 Fake News Detection
+
